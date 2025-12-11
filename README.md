@@ -81,6 +81,14 @@ Potential updates for later versions:
 - Online leaderboard
 - Android APK export
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform: Web](https://img.shields.io/badge/Platform-Web-blue)
+![Game Engine](https://img.shields.io/badge/Engine-HTML5%20Canvas-red)
+
 🧑‍💻 Author
 Runner Game Studio
 Developed by: Nguyễn Phúc An
@@ -92,3 +100,7 @@ MIT License – free to use, study, and modify.
 🖼️ Screenshot
 <img width="1845" height="889" alt="image" src="https://github.com/user-attachments/assets/bdfcee4a-379d-4c0a-b42a-208cfe1f3065" />
 
+🐾 Logo
+   /\_/\    🐾  
+  ( o.o )   Runner Game Studio
+   > ^ <
