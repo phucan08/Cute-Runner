@@ -89,5 +89,6 @@ Year: 2025
 📄 License
 MIT License – free to use, study, and modify.
 
+🖼️ Screenshot
 <img width="1845" height="889" alt="image" src="https://github.com/user-attachments/assets/bdfcee4a-379d-4c0a-b42a-208cfe1f3065" />
 
